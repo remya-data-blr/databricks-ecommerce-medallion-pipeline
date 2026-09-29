@@ -28,7 +28,7 @@ Shows job is scheduled and has 2 successful runs in production.
 
 #### 2. Detailed Run Execution Proof
 Shows Succeeded status, execution time 6.226s, and actual Medallion code running on Databricks.
-![Detailed Run Succeeded]<img src="proof2.png" width="700">
+![Detailed Run Succeeded] <img src="proof2.png" width="700">
 
 ### 📂 Files in this Repo
 - `remya_ecommerce_databricks.ipynb` - Main pipeline notebook
