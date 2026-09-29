@@ -24,11 +24,11 @@ An end-to-end Data Engineering pipeline built on Databricks implementing the Med
 
 #### 1. Job Scheduling & Orchestration Proof
 Shows job is scheduled and has 2 successful runs in production.
-![Job Schedule Proof](databricks-job-proof.png)
+![Job Schedule Proof]<img src="data-bricks-job-proof.png" width="700">
 
 #### 2. Detailed Run Execution Proof
 Shows Succeeded status, execution time 6.226s, and actual Medallion code running on Databricks.
-![Detailed Run Succeeded](job-run-detailed-succeeded.png)
+![Detailed Run Succeeded]<img src="job-run-detailed-succeeded.png" width="700">
 
 ### 📂 Files in this Repo
 - `remya_ecommerce_databricks.ipynb` - Main pipeline notebook
