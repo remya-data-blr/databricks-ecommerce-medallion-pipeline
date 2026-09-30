@@ -25,7 +25,7 @@ An end-to-end Data Engineering pipeline built on Databricks implementing the Med
 - `databricks-job-proof.png` - Orchestration proof
 - `job-run-detailed-succeeded.png` - Execution proof
 
-  
+
 ### 📸 Proof of Execution
 
 **1. Daily 2 AM IST - Orchestration:**
