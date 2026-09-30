@@ -35,6 +35,9 @@ An end-to-end Data Engineering pipeline built on Databricks implementing the Med
 **2. Job Succeeded in 6.22s - Execution:**
 ![Execution](job-run-detailed-succeeded.png)
 
+**3. Output - Bronze & Gold:**
+![Output](bronze-output.png)
+
 
 ### 👩‍💻 Author
 **Remya** - Aspiring Data Engineer
