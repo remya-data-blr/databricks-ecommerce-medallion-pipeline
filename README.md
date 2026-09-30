@@ -25,6 +25,9 @@ An end-to-end Data Engineering pipeline built on Databricks implementing the Med
 - `data bricks-job-proof.png` - Orchestration proof
 - `job-run-detailed-succeeded.png` - Execution proof
 
+![Job Schedule Proof](databricks-job-proof.png)
+![Job Run Success Proof](job-run-detailed-succeeded.png)
+
 ### 👩‍💻 Author
 **Remya** - Aspiring Data Engineer
 Built with ❤️ on Databricks Community Edition
