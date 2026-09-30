@@ -28,6 +28,12 @@ An end-to-end Data Engineering pipeline built on Databricks implementing the Med
 ![Job Schedule Proof](data%20bricks-job-proof.png)
 ![Job Run Success Proof](job-run-detailed-succeeded.png)
 
+
+![Orchestration Proof](https://raw.githubusercontent.com/remya-data-blr/databricks-ecommerce-medallion-pipeline/main/data%20bricks-job-proof.png)
+
+![Execution Proof](https://raw.githubusercontent.com/remya-data-blr/databricks-ecommerce-medallion-pipeline/main/job-run-detailed-succeeded.png)
+
+
 ### 👩‍💻 Author
 **Remya** - Aspiring Data Engineer
 Built with ❤️ on Databricks Community Edition
