@@ -22,7 +22,7 @@ An end-to-end Data Engineering pipeline built on Databricks implementing the Med
 
 ### 📂 Files in this Repo
 - `remya_ecommerce_databricks.ipynb` - Main pipeline notebook
-- `data bricks-job-proof.png` - Orchestration proof
+- `databricks-job-proof.png` - Orchestration proof
 - `job-run-detailed-succeeded.png` - Execution proof
 
   
