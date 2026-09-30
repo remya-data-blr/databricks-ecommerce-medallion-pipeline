@@ -27,12 +27,13 @@ An end-to-end Data Engineering pipeline built on Databricks implementing the Med
 
 
 ### 📸 Proof of Execution
+## Proof of Execution
 
 **1. Daily 2 AM IST - Orchestration:**
-
+![Orchestration](databricks-job-proof.png)
 
 **2. Job Succeeded in 6.22s - Execution:**
-![Success](job-run-detailed-succeeded.png)
+![Execution](job-run-detailed-succeeded.png)
 
 
 ### 👩‍💻 Author
