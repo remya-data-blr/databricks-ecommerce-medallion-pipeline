@@ -25,7 +25,7 @@ An end-to-end Data Engineering pipeline built on Databricks implementing the Med
 - `data bricks-job-proof.png` - Orchestration proof
 - `job-run-detailed-succeeded.png` - Execution proof
   
-### 📸 Proof of Execution - Production Ready
+### 📸 Proof of Execution
 
 **1. Daily Schedule 2 AM IST - Orchestration Proof**
 ![Orchestration Proof](https://raw.githubusercontent.com/remya-data-blr/databricks-ecommerce-medallion-pipeline/main/data%20bricks-job-proof.png)
